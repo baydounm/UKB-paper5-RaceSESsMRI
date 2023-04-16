@@ -1,0 +1,38 @@
+***************************************SUBCORTICAL VOLUMES****************************************************
+
+
+********Group 1: Non-significant total effect, direct and indirect effects.
+
+*1.1. For race: None
+*1.2. for SES: None 
+
+ 
+********Group 2: Non-significant total effect, significant indirect effect, non-significant direct effect. 
+
+
+*2.1. For race: Left amygdala, Left caudate, Right caudate, Left Hippocampus, Right Hippocampus.
+*2.2. for SES: None. 
+
+
+
+********Group 3: Significant total effect, significant indirect effect, non-significant direct effect. 
+
+
+*3.1. For race: Left accumbens, Right amygdala, Left putamen, 
+*3.2. for SES: None.
+
+
+*********Group 4: Significant total effect, non-significant indirect effect, significant direct effects.
+*4.1 for race: none. 
+*4.2. for SES: none. 
+
+
+********Group 5: Significant total effect, significant indirect effect, significant direct effect. 
+
+ 
+*5.1. For race:  Right accumbens, Right pallidum, Right putamen, Left Thalamus, Right Thalamus
+*5.2. for SES: Left accumbens, Right accumbens, Left caudate, Right caudate, Left pallidum,  Right pallidum, Left Hippocampus, Right hippocampus, Left putamen, Right putamen, Left Thalamus, Right Thalamus.  
+
+**********Group 6: Non-significant total effect, significant indirect effect, significant direct effect. 
+*6.1 for race: Left pallidum
+*6.2. for SES: None. 

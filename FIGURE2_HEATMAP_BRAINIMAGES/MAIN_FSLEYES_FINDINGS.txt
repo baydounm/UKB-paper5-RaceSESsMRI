@@ -1,0 +1,57 @@
+Left accumbens:
+Non-White: DE<0 (p>0.05), IE<0 (p<0.010), TE<0 (p<0.05).  
+SES: DE>0 (p<0.010),IE>0 (p<0.001), TE>0 (p<0.001).  
+
+Right accumbens:
+Non-White: DE<0 (p<0.001), IE<0 (p<0.010), TE<0 (p<0.001)
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001).
+
+Left amygdala:
+Non-White: DE<0 (p>0.05), IE<0 (p<0.010), TE<0 (p>0.05)     
+SES: DE>0 (p<0.001), IE>0 (p<0.05), TE>0 (p<0.001)
+
+Right amygdala:
+Non-White: DE<0 (p>0.05),IE<0 (p<0.010), TE<0 (p<0.05) 
+SES: DE>0 (p<0.05), IE>0 (p<0.010), TE>0 (p<0.010)
+
+Left Caudate:
+Non-White: DE<0 (p>0.05), IE<0 (p<0.010), TE<0 (p>0.05)
+SES: DE>0 (p<0.001), IE>0 (p<0.010), TE>0 (p<0.001)
+
+Right Caudate:
+Non-White:DE<0 (p>0.05),IE<0 (p<0.001), TE<0 (p>0.05)
+SES: DE>0 (p<0.001), IE>0 (p<0.010), TE>0 (p<0.001) 
+
+Left Hippocampus:
+Non-White: DE<0 (p>0.05), IE<0 (P<0.001), TE<0 (p>0.05) 
+SES: DE>0 (p<0.001), IE>0 (p<0.010), TE>0 (p<0.001) 
+
+Right Hippocampus:
+Non-White:DE<0 (p>0.05), IE<0 (p<0.010), TE<0 (p>0.05)
+SES: DE>0 (p<0.001), IE>0 (p<0.050), TE>0 (p<0.001)
+
+Left Pallidum:
+Non-White: DE>0 (p<0.05), IE<0 (p<0.001), TE>0 (p>0.05)
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001)  
+
+Right Pallidum:
+Non-White: DE>0 (p<0.001), IE<0 (p<0.001), TE>0 (p<0.05) 
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001)
+
+Left Putamen:
+Non-White: DE<0 (p>0.05), IE<0 (p<0.001), TE<0 (p<0.010)  
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001)
+
+Right Putamen:
+Non-White: DE<0 (p<0.05), IE<0 (p<0.001), TE<0 (p<0.010)
+SES: DE>0 (p<0.010), IE>0 (p<0.001), TE>0 (p<0.001)
+
+Left Thalamus:
+Non-White: DE<0 (p<0.010), IE<0 (p<0.001), TE<0 (p<0.001)
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001)
+
+Right Thalamus:
+Non-White: DE<0 (p<0.010), IE<0 (p<0.001), TE<0 (p<0.001)
+SES: DE>0 (p<0.001), IE>0 (p<0.001), TE>0 (p<0.001)
+
+ 
