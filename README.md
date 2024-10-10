@@ -5,7 +5,7 @@ This is a repository for all supplementary information and data from which Figur
 Authors:
 May A. Beydoun; Hind A. Beydoun; Marie T. Fanelli-Kuczmarski; Yi-Han Hu;  Danielle Shaked; Daniel Adkins; Jordan Weiss; Shari R. Waldstein; Lenore J. Launer; Michele K. Evans; Alan B. Zonderman
 
-Currently under consideration in: xxxx
+Published in Geroscience. 
 
 The repository includes the following folders:
 ---FIGURE2_HEATMAP_BRAINIMAGES: Includes scripts in Stata and R, and datasets or excel sheets used to create Figure 2 heat maps and brain images. It also includes the brain image visualizations obtained from a standard MNI 152 brain image using FSLEYES. 
