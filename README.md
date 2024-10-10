@@ -1,6 +1,8 @@
 # UKB-paper5-RaceSESsMRI
 
-This is a repository for all supplementary information and data from which Figures were created for the manuscript entitled: "Pathways explaining racial/ethnic and socio-economic disparities in brain volumetric outcomes in the UK biobank study"
+This is a repository for all supplementary information and data from which Figures were created for the manuscript entitled: "Uncovering mediational pathways behind racial
+and socioeconomic disparities in brain volumes: insights from the UK Biobank study
+"
 
 Authors:
 May A. Beydoun; Hind A. Beydoun; Marie T. Fanelli-Kuczmarski; Yi-Han Hu;  Danielle Shaked; Daniel Adkins; Jordan Weiss; Shari R. Waldstein; Lenore J. Launer; Michele K. Evans; Alan B. Zonderman
